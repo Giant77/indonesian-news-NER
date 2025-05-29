@@ -22,7 +22,7 @@ class NERRequest(BaseModel):
 MODELS = {
     "xlm-roberta-indonesia": os.path.join(BASE_DIR, "saved_models", "cahya_xlm-roberta-base-indonesian-NER"),
     "indobert": os.path.join(BASE_DIR, "saved_models", "indobenchmark_indobert-base-p1"),
-    "xlm-roberta-base": os.path.join(BASE_DIR, "saved_models", "xlm-roberta-base")
+    "xlm-roberta": os.path.join(BASE_DIR, "saved_models", "xlm-roberta-base")
 }
 
 # Load semua model & tokenizer
