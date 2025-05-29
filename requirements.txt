@@ -12,3 +12,5 @@ itertools
 json
 numpy==1.26.4
 tqdm==4.67.1
+requests==2.31.0
+streamlit-extras==0.3.4
