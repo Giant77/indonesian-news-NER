@@ -8,7 +8,7 @@ import os
 import json
 
 # Path ke folder root project
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 # Inisialisasi FastAPI
 app = FastAPI(title="Indonesian NER API", description="Ekstraksi Entitas Politik dari Berita", version="1.0")
