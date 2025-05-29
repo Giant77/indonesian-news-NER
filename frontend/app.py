@@ -33,7 +33,7 @@ text_input = st.text_area("Teks Berita", placeholder="Tulis atau tempel teks ber
 st.markdown("<h3 style='color:#1f77b4;'>Pilih Model NER</h3>", unsafe_allow_html=True)
 model_option = st.selectbox(
     label="Pilih model ekstraksi entitas:",
-    options=["xlm-roberta-indonesia", "indobert", "xlm-roberta-base"],
+    options=["xlm-roberta-indonesia", "indobert", "xlm-roberta"],
     index=0,
     help="Pilih model bahasa yang akan digunakan untuk ekstraksi entitas."
 )
