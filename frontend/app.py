@@ -10,7 +10,7 @@ st.markdown("""
     <h1 style='text-align: center; color: #1f77b4;'>Ekstraksi Entitas Politik dari Berita Indonesia</h1>
     <p style='text-align: center; font-size: 18px; color: gray;'>Kenali entitas penting seperti <b>tokoh</b>, <b>organisasi</b>, dan <b>lokasi</b> dari teks berita Indonesia.</p>
     <hr>
-""", unsafe_allow_html=True)
+    """, unsafe_allow_html=True)
 
 # Tentang Proyek
 with st.expander("📌 Tentang Proyek", expanded=True):
@@ -110,4 +110,4 @@ st.markdown("""
     <div style="text-align: center; font-size: 14px; color: gray;">
         Dibuat dengan ❤️ oleh Kelompok 8 · Powered by FastAPI & HuggingFace Transformers
     </div>
-""", unsafe_allow_html=True)
+    """, unsafe_allow_html=True)
