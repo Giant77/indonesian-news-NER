@@ -4,16 +4,6 @@ Sistem yang berpotensi mampu secara otomatis mengekstrak entitas-entitas penting
 
 ---
 
-## 📦 Fitur Utama
-
-- Memilih kategori email: Akademik, Skripsi, Magang, dll.
-- Menentukan nada (tone) penulisan: formal, netral, atau santai.
-- Mendukung Bahasa Indonesia dan Inggris.
-- Mengisi poin-poin utama yang ingin disampaikan dalam email.
-- Menghasilkan email yang profesional, jelas, dan padat secara otomatis.
-
----
-
 ## 📁 Struktur Proyek
 
 ```
